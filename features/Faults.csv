@@ -1,0 +1,50 @@
+﻿No.,Fault File Name,Fault Type,Fault Intensity 
+1,FCU_FaultFree.csv,Fault Free,NA
+2,FCU_OADMPRLeak_20.csv ,Outdoor air damper leaking,20% leakage
+3,FCU_OADMPRLeak_50.csv ,Outdoor air damper leaking,50% leakage
+4,FCU_OADMPRLeak_80.csv ,Outdoor air damper leaking,80% leakage
+5,FCU_OADMPRStuck_0.csv,Outdoor air damper stuck ,Stuck at 0% Position 
+6,FCU_OADMPRStuck_30.csv,Outdoor air damper stuck ,Stuck at 30% Position 
+7,FCU_OADMPRStuck_50.csv,Outdoor air damper stuck ,Stuck at 50% Position 
+8,FCU_OADMPRStuck_80.csv,Outdoor air damper stuck ,Stuck at 80% Position 
+9,FCU_OADMPRStuck_100.csv,Outdoor air damper stuck ,Stuck at 100% Position 
+10,FCU_VLVLeak_Heating_20.csv,Heating Coil Valve Leaking ,20% Leakage 
+11,FCU_VLVLeak_Heating_50.csv,Heating Coil Valve Leaking ,50% Leakage 
+12,FCU_VLVLeak_Heating_80.csv,Heating Coil Valve Leaking ,80% Leakage 
+13,FCU_VLVStuck_Heating_0.csv,Heating Coil Valve Stuck ,0% Position
+14,FCU_VLVStuck_Heating_20.csv,Heating Coil Valve Stuck ,Stuck as 20%
+15,FCU_VLVStuck_Heating_50.csv,Heating Coil Valve Stuck ,Stuck at 50%  
+16,FCU_VLVStuck_Heating_80.csv,Heating Coil Valve Stuck ,Stuck at 80%  
+17,FCU_VLVStuck_Heating_100.csv,Heating Coil Valve Stuck ,Stuck at 100%
+18,FCU_VLVLeak_Cooling_20.csv,Cooling Coil Valve Leaking ,20% leakage
+19,FCU_VLVLeak_Cooling_50.csv,Cooling Coil Valve Leaking ,50% leakage
+20,FCU_VLVLeak_Cooling_80.csv,Cooling Coil Valve Leaking ,80% leakage
+21,FCU_VLVStuck_Cooling_0.csv,Cooling Coil Valve Stuck ,Stuck at 0%  
+22,FCU_VLVStuck_Cooling_20.csv,Cooling Coil Valve Stuck ,Stuck as 20%
+23,FCU_VLVStuck_Cooling_50.csv,Cooling Coil Valve Stuck ,Stuck at 50%  
+24,FCU_VLVStuck_Cooling_80.csv,Cooling Coil Valve Stuck ,Stuck at 80%  
+25,FCU_VLVStuck_Cooling_100.csv,Cooling Coil Valve Stuck ,Stuck at 100%
+26,FCU_SensorBias_RMTemp_+2C.csv,Zone Temperature Sensor Bias , +2° C
+27,FCU_SensorBias_RMTemp_-2C.csv,Zone Temperature Sensor Bias , -2° C
+28,FCU_SensorBias_RMTemp_+4C.csv ,Zone Temperature Sensor Bias , +4° C
+29,FCU_SensorBias_RMTemp_-4C.csv,Zone Temperature Sensor Bias , -4° C
+30,FCU_Fouling_Cooling_Airside_Minor.csv,Cooling Coil Fouling Air-Side,Minor 
+31,FCU_Fouling_Cooling_Airside_Moderate.csv,Cooling Coil Fouling Air-Side,Moderate
+32,FCU_Fouling_Cooling_Airside_Severe.csv,Cooling Coil Fouling Air-Side,Severe
+33,FCU_Fouling_Cooling_Waterside_Minor.csv,Cooling Coil Fouling Water-Side ,Minor 
+34,FCU_Fouling_Cooling_Waterside_Moderate.csv,Cooling Coil Fouling Water-Side ,Moderate
+35,FCU_Fouling_Cooling_Waterside_Severe.csv,Cooling Coil Fouling Water-Side ,Severe
+36,FCU_Fouling_Heating_Airside_Minor.csv,Heating Coil Fouling Airside ,Minor 
+37,FCU_Fouling_Heating_Airside_Moderate.csv,Heating Coil Fouling Airside ,Moderate
+38,FCU_Fouling_Heating_Airside_Severe.csv,Heating Coil Fouling Airside ,Severe
+39,FCU_Fouling_Heating_Waterside_Minor.csv,Heating Coil Fouling Water-Side,Minor 
+40,FCU_Fouling_Heating_Waterside_Moderate.csv,Heating Coil Fouling Water-Side,Moderate
+41,FCU_Fouling_Heating_Waterside_Severe.csv,Heating Coil Fouling Water-Side,Severe
+42,FCU_FilterRestriction_10%.csv,Filter Restriction,10% Blockage 
+43,FCU_FilterRestriction_20%.csv,Filter Restriction,20% Blockage
+44,FCU_FilterRestriction_50%.csv,Filter Restriction,50% Blockage
+45,FCU_OABlockage.csv,Outdoor air inlet blockage,NA
+46,FCU_FanOutletBlockage.csv,Fan Outlet Blockage,NA
+47,CU_Control_CoolingReverse.csv,Cooling Control Reverse Acting ,NA
+48,FCU_Control_HeatingReverse.csv,Heating Control Reverse Acting ,NA
+49,FCU_Control_Unstable.csv,FCU Unstable Control,NA

@@ -1,0 +1,16 @@
+Fault Type,Testing Accuracy,Training Accuracy,Testing AUC,Training AUC
+Heating Control Reverse Acting ,0.6563,0.6563,0.4626,0.4627
+Cooling Coil Fouling Air-Side,0.681,0.6802,0.5014,0.5006
+FCU Unstable Control,0.7047,0.7028,0.5352,0.5359
+Heating Coil Valve Leaking ,0.734,0.7339,0.5851,0.5842
+Cooling Coil Fouling Water-Side ,0.7429,0.743,0.5983,0.5983
+Heating Coil Fouling Water-Side,0.751,0.7513,0.6109,0.6113
+Cooling Coil Valve Leaking ,0.7773,0.7759,0.6513,0.65
+Cooling Coil Valve Stuck ,0.8079,0.8081,0.7001,0.7003
+Zone Temperature Sensor Bias ,0.8188,0.8188,0.7165,0.7168
+Outdoor air damper stuck ,0.825,0.8244,0.7251,0.7257
+Heating Coil Valve Stuck ,0.8352,0.835,0.7416,0.7422
+Fan Outlet Blockage,0.8386,0.8395,0.7491,0.7492
+Heating Coil Fouling Airside ,0.8793,0.8791,0.8117,0.8111
+Filter Restriction,0.8815,0.8819,0.8155,0.8155
+Outdoor air inlet blockage,0.9901,0.9906,0.9844,0.9854
